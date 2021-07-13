@@ -1,0 +1,69 @@
+/*Archivo de estilos*/
+/* colorhunt.com*/
+/* Combinacion 1
+/* Color 1 #e8e8e8  mas claro
+/* Color 2 #5588a3
+/* Color 3 #145374
+/* Color 4 #00334e  mas fuerte*/
+
+
+/*tabla
+claro c8e6f5
+opaco  02576c */ 
+
+/*tablaluck
+claro ee4540
+opaco  801336 */ 
+
+body{
+	background-color: #f2eee0;
+	font-family: Verbana;
+	margin: 20px;
+	text-align:justify;
+	max-width:1024px;
+	color:#00334e;
+}
+IMG
+{
+	display:block;
+margin:auto;
+}
+
+.titulotb1{
+	color:#00334e;
+	text-align:center;
+	letter-spacing:4 px;
+	font: 100% Arial;
+}
+
+.td
+
+{
+	color:#00334e;
+	background-color:#5588a3;
+}
+
+
+
+.td1
+{
+		color:#02576c;
+	background-color:#c8e6f5;
+	
+}
+
+.tdl
+{
+			color:#801336;
+	background-color:#ee4540;
+	
+}
+
+.indiana figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.indiana figure:hover img {
+	opacity: .5;
+}
